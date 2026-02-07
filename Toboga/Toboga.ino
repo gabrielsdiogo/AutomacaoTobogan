@@ -114,7 +114,7 @@ void executarCorte() {
 void atualizarDisplay() {
 
   lcd.setCursor(0, 0);
-  lcd.print("Selecione medida");
+  lcd.print("Ajuste de medida");
 
   lcd.setCursor(0, 1);
   lcd.print("                ");
